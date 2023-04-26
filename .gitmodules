@@ -1,0 +1,12 @@
+[submodule "Electronics/Scout_Robot_Controller/kicad-library"]
+	path = Electronics/Scout_Robot_Controller/kicad-library
+	url = git@gitlab.com:rov-scout-robot/kicad-library.git
+	branch = development
+[submodule "Electronics/Scout_Robot_Remote/kicad-library"]
+	path = Electronics/Scout_Robot_Remote/kicad-library
+	url = git@gitlab.com:rov-scout-robot/kicad-library.git
+	branch = development
+[submodule "Electronics/Scout_Robot_Motor_Driver/kicad-library"]
+	path = Electronics/Scout_Robot_Motor_Driver/kicad-library
+	url = git@gitlab.com:rov-scout-robot/kicad-library.git
+	branch = development
