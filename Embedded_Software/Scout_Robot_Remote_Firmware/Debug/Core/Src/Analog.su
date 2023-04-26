@@ -1,0 +1,5 @@
+../Core/Src/Analog.c:8:6:analogInit	16	static
+../Core/Src/Analog.c:13:6:JS_Init	24	static
+../Core/Src/Analog.c:23:6:JS_Aquisite	40	static
+../Core/Src/Analog.c:94:6:JS_Calibrate	24	static
+../Core/Src/Analog.c:110:9:map	24	static

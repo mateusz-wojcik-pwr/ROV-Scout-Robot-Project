@@ -1,0 +1,5 @@
+../Core/Lib/Analog/Analog.c:6:6:analogInit	16	static
+../Core/Lib/Analog/Analog.c:11:6:JS_Init	24	static
+../Core/Lib/Analog/Analog.c:21:6:JS_Aquisite	40	static
+../Core/Lib/Analog/Analog.c:87:6:JS_Calibrate	24	static
+../Core/Lib/Analog/Analog.c:103:9:map	24	static

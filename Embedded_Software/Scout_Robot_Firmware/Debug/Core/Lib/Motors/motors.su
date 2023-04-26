@@ -1,0 +1,3 @@
+../Core/Lib/Motors/motors.c:7:6:motorsInit	24	static
+../Core/Lib/Motors/motors.c:19:6:motorSetValue	24	static
+../Core/Lib/Motors/motors.c:35:6:motorUpdate	24	static
