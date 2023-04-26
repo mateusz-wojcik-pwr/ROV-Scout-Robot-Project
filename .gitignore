@@ -1,6 +1,5 @@
-# For PCBs designed using KiCad: https://www.kicad.org/
-# Format documentation: https://kicad.org/help/file-formats/
-
+# Untracked filed
+# Kicad
 # Temporary files
 *.000
 *.bak
@@ -27,3 +26,12 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+
+# STM32CUBEIDE
+# workspace temporary files
+/Embedded_Software/.metadata
+
+# Debug folders
+/Embedded_Software/Scout_Robot_Firmware/Debug
+/Embedded_Software/Scout_Robot_Remote_C8/Debug
