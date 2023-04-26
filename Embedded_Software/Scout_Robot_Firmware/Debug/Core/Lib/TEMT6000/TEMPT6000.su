@@ -1,2 +1,0 @@
-../Core/Lib/TEMT6000/TEMPT6000.c:22:17:TEMT6000_Init	16	static
-../Core/Lib/TEMT6000/TEMPT6000.c:32:17:TEMT6000_ReadLight	24	static

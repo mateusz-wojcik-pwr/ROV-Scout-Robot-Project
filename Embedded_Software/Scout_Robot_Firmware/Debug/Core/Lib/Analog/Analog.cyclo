@@ -1,5 +1,0 @@
-Analog.c:6:6:analogInit	1
-Analog.c:11:6:JS_Init	1
-Analog.c:21:6:JS_Aquisite	15
-Analog.c:87:6:JS_Calibrate	2
-Analog.c:103:9:map	1

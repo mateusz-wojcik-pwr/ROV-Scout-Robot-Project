@@ -1,3 +1,0 @@
-motors.c:7:6:motorsInit	6
-motors.c:19:6:motorSetValue	3
-motors.c:35:6:motorUpdate	11
